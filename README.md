@@ -15,7 +15,7 @@
   </ul>
  <h1>Wiring</h1>
  
- <img src="schematics/schematics.png" width=400 highet=400/>
+ <img src="Schematics/LightSwitch_bb.png" width=400 highet=400/>
   
   <p>In each wall switch you will find two wires, once the two wires are connected the power will be sent to the light for it to turn on. We will connect  the wires using a relay which is an automated switch. If the relay will get power the two wires will be connected, and if it will be off the two wires will not be connected.</p>
   
