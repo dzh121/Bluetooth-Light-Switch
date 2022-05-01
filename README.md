@@ -1,5 +1,5 @@
  <h1>Bluetooth Light Switch</h1>
- <img src="Clock.jpeg" width=500 highet=500>
+ <img src="BluetotohLightSwitch.jpeg" width=500 highet=500>
  <p>Did you ever lay in bed and wanted to turn off the light but you didn't want to stand up and go. Here is the solution for you.
 
  In this project we will make bluetooth light switch.
