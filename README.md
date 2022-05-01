@@ -10,7 +10,7 @@
  <li><a href="https://www.newark.com/arduino/a000005/dev-board-atmega328-arduino-nano/dp/13T9275?COM=ref_hackster">Arduino NANO</a></li>
  <li><a href="https://www.newark.com/apem/mjtp1230/switch-tactile-spst-50ma-through/dp/19C7994?COM=ref_hackster">Tactile Switch</a></li>
  <li><a href="https://www.amazon.com/HiLetgo-Wireless-Bluetooth-Transceiver-Arduino/dp/B071YJG8DR">Hc-05 Bluetooh Moudle</a></li>
- <li><a href="">Relay Moudle</a></li>
+ <li><a href="https://he.aliexpress.com/item/4000410958178.html?spm=a2g0o.search0304.0.0.2c5b25ca9DmoYg&algo_pvid=b0113c46-13ee-46d5-91c1-ffd3acf38d28&aem_p4p_detail=202205011117445462038397010160024842861&algo_exp_id=b0113c46-13ee-46d5-91c1-ffd3acf38d28-4&pdp_ext_f=%7B%22sku_id%22%3A%2210000001694902783%22%7D&pdp_npi=1%40dis%7CILS%7C%7C5.08%7C%7C%7C%7C%7C%402100bdcf16514290646845674e83e5%7C10000001694902783%7Csea&gatewayAdapt=glo2isr">Relay Moudle</a></li>
  <li><a href="https://www.newark.com/stellar-labs/24-14687/kit-contents-eight-25-ft-spools/dp/44AC9034?COM=ref_hackster">Wires</a></li>
   </ul>
  <h1>Wiring</h1>
@@ -25,9 +25,9 @@
 1. Using a button
 
 2. Using Bluetooth</p>
-<h1>Power:</h1>
+<h1>Power</h1>
 <p>To power the entire circuit I cut a USB and took - and + wires and connected it and then after connected the USB to any USB 5v charger.</p>
-<h1>Bluetooth:</h1>
+<h1>Bluetooth</h1>
 <p>For this project I made my own Bluetooth app. If you would like to use any other app you will need to know that, to turn on the commend is "1#", and to turn off "0#".</p> 
 <h1>Connecting To The Wall</h1>
 <p>Before you will put every thing in the wall you will need to do 2 things. First solder every wire to each other to avoid big size(so it can go in the wall). After you soldered everything to the Arduino nano take out the existing switch from the wall and connect the two wires to the middle plug and the NO plug in the relay. After everything is connected stick everything inside the wall (i used tape to cover everything up).</p>
