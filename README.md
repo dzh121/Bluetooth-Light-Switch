@@ -30,7 +30,7 @@ Bluetooth: Alternatively, the relay can be activated wirelessly using Bluetooth 
 <p>For this particular project, a custom Bluetooth application was developed. If you prefer to use a different app, please note that the command to turn the relay on is "1#", while the command to turn it off is "0#".</p> 
 <h1>The App</h1>
 <p>In the app, you can choose which Bluetooth device you want to connect to and then click the on or off button to turn it on. You can find the apk in the project download files.</p>
-<img src="BluetotohLightSwitch.jpeg" width=500 highet=500>
+<img src="app.jpg" width=500 highet=500>
 <h1>Connecting to the wall:</h1>
 <p>Before mounting the components on the wall, two important steps must be completed. Firstly, all wires need to be soldered together to reduce their overall size, enabling them to fit inside the wall. Once all the connections have been soldered to the Arduino Nano, the existing wall switch needs to be removed. Next, the two wires from the wall switch should be connected to the middle plug and the normally open (NO) plug on the relay. After ensuring all connections are secure, the components can be safely tucked inside the wall. For added protection, I recommend using tape to cover and secure everything in place.</p>
 <h1>Warning</h1>
