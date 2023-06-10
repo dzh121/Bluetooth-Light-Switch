@@ -1,10 +1,10 @@
  <h1>Bluetooth Light Switch</h1>
  <img src="BluetotohLightSwitch.jpeg" width=500 highet=500>
- <p>Did you ever lay in bed and wanted to turn off the light but you didn't want to stand up and go. Here is the solution for you.
-
- In this project we will make bluetooth light switch.
  <br>
- <br>
+ <p>Have you ever found yourself lying in bed, yearning to switch off the light without having to get up and move? 
+Well, we have the perfect solution for you! Introducing our innovative project: The Bluetooth light switch. 
+</p>
+<br>
  <h1>Components</h1>
  <ul>
  <li><a href="https://www.newark.com/arduino/a000005/dev-board-atmega328-arduino-nano/dp/13T9275?COM=ref_hackster">Arduino NANO</a></li>
@@ -17,20 +17,22 @@
  
  <img src="Schematics/LightSwitch_bb.png" width=400 highet=400/>
   
-  <p>In each wall switch you will find two wires, once the two wires are connected the power will be sent to the light for it to turn on. We will connect  the wires using a relay which is an automated switch. If the relay will get power the two wires will be connected, and if it will be off the two wires will not be connected.</p>
+<p>Each wall switch is equipped with two wires that need to be connected in order to send power to the light and turn it on. To achieve this, we will utilize a relay, which functions as an automated switch. When the relay receives power, it establishes a connection between the two wires, and when it is switched off, the connection is severed. </p>
   
-<h1>Usage</h1>
+<h1>Methods of activating the relay:</h1>
 <p>We will turn on the relay using two ways:
-
-1. Using a button
-
-2. Using Bluetooth</p>
-<h1>Power</h1>
-<p>To power the entire circuit I cut a USB and took - and + wires and connected it and then after connected the USB to any USB 5v charger.</p>
-<h1>Bluetooth</h1>
-<p>For this project I made my own Bluetooth app. If you would like to use any other app you will need to know that, to turn on the commend is "1#", and to turn off "0#".</p> 
-<h1>Connecting To The Wall</h1>
-<p>Before you will put every thing in the wall you will need to do 2 things. First solder every wire to each other to avoid big size(so it can go in the wall). After you soldered everything to the Arduino nano take out the existing switch from the wall and connect the two wires to the middle plug and the NO plug in the relay. After everything is connected stick everything inside the wall (i used tape to cover everything up).</p>
+Button: We can activate the relay by pressing a physical button. 
+Bluetooth: Alternatively, the relay can be activated wirelessly using Bluetooth technology. 
+</p>
+<h1>Power source:</h1>
+<p>To provide power to the entire circuit, a USB cable was modified by separating the positive (+) and negative (-) wires. These wires were then connected, and the USB was plugged into a standard 5-volt USB charger.</p>
+<h1>Bluetooth functionality:</h1>
+<p>For this particular project, a custom Bluetooth application was developed. If you prefer to use a different app, please note that the command to turn the relay on is "1#", while the command to turn it off is "0#".</p> 
+<h1>The App</h1>
+<p>In the app, you can choose which Bluetooth device you want to connect to and then click the on or off button to turn it on. You can find the apk in the project download files.</p>
+<img src="BluetotohLightSwitch.jpeg" width=500 highet=500>
+<h1>Connecting to the wall:</h1>
+<p>Before mounting the components on the wall, two important steps must be completed. Firstly, all wires need to be soldered together to reduce their overall size, enabling them to fit inside the wall. Once all the connections have been soldered to the Arduino Nano, the existing wall switch needs to be removed. Next, the two wires from the wall switch should be connected to the middle plug and the normally open (NO) plug on the relay. After ensuring all connections are secure, the components can be safely tucked inside the wall. For added protection, I recommend using tape to cover and secure everything in place.</p>
 <h1>Warning</h1>
 <p><b>Working with high power is very dangers and you will need to be careful. Make sure you turn off the fuse first before doing everything</b></p>
 <h1>More Info</h1>
