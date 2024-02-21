@@ -36,4 +36,4 @@ Bluetooth: Alternatively, the relay can be activated wirelessly using Bluetooth 
 <h1>Warning</h1>
 <p><b>Working with high power is very dangers and you will need to be careful. Make sure you turn off the fuse first before doing everything</b></p>
 <h1>More Info</h1>
-<p>Contact me or more info at Arduino Project Hub:https://create.arduino.cc/projecthub/dzh121/light-switch-bluetooth-3e330b</p>
+<p>Contact me or more info at Arduino Project https://projecthub.arduino.cc/dzh121/light-switch-bluetooth-329578</p>
